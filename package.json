@@ -1,0 +1,23 @@
+{
+  "name": "estuary-contract-subscription",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.8.0",
+    "@truffle/hdwallet-provider": "^2.0.4",
+    "react-qty-picker": "^1.0.6",
+    "truffle": "^5.5.4",
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "truffle-plugin-verify": "^0.5.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
